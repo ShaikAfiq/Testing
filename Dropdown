@@ -1,0 +1,331 @@
+<div class="accordion" id="accordion-543">
+    <!-- Main Accordion for Day 1 -->
+    <div class="card">
+        <div class="card-header" id="headingOne">
+            <h2 class="mb-4" style="font-weight: bold;">
+                <a class="btn btn-link btn-block text-left text-primary bg-secondary border-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-weight: bold; padding-top: 20px; padding-bottom: 20px; font-size: 22px;">
+                    <strong>Day 1</strong>
+                </a>
+            </h2>
+        </div>
+
+        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion-543" style="">
+
+            <!-- Accordion for Pre-Class -->
+            <div class="accordion" id="subAccordion">
+                <div class="card">
+                    <div class="card-header" id="headingPreClass">
+                        <h2><i class="fa fa-book fa-2x text-primary "></i><strong style="color: rgb(0, 71, 178);"> Pre-Class </strong></h2>
+                    </div>
+
+                    <div id="collapsePreClass" class="collapse" aria-labelledby="headingPreClass" data-parent="#subAccordion" style="">
+                        <div class="card-body">
+                            <p>In this session, we will explore how various strategic approaches are shaped by different cultural contexts...</p>
+                            <!-- Add more Pre-Class content here -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Accordion for During-Class -->
+                <div class="card">
+                    <div class="card-header" id="headingDuringClass">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link text-left text-primary" type="button" data-toggle="collapse" data-target="#collapseDuringClass" aria-expanded="true" aria-controls="collapseDuringClass">
+                                During-Class
+                            </button>
+                        </h2>
+                    </div>
+
+                    <div id="collapseDuringClass" class="collapse show" aria-labelledby="headingDuringClass" data-parent="#subAccordion" style="">
+                        <div class="card-body">
+                            <p>In today’s session, we will dive into how cultural differences influence international business strategies...</p>
+                            <!-- Add more During-Class content here -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Accordion for Post-Class -->
+                <div class="card">
+                    <div class="card-header" id="headingPostClass">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link text-left text-primary" type="button" data-toggle="collapse" data-target="#collapsePostClass" aria-expanded="false" aria-controls="collapsePostClass">
+                                Post-Class
+                            </button>
+                        </h2>
+                    </div>
+
+                    <div id="collapsePostClass" class="collapse" aria-labelledby="headingPostClass" data-parent="#subAccordion">
+                        <div class="card-body">
+                            <p>As we conclude our exploration of cross-cultural influences on international business strategies...</p>
+                            <!-- Add more Post-Class content here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- Day 2 -->
+<div class="card">
+    <div class="card-header" id="headingTwo">
+        <h2 class="mb-4" style="font-weight: bold;">
+            <a class="btn btn-link btn-block text-left collapsed bg-secondary text-primary border-white" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-weight: bold; padding-top: 20px; padding-bottom: 20px; font-size: 22px;">
+                <strong>Day 2</strong>
+            </a>
+        </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion-543">
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h2><i class="fa fa-book fa-2x text-primary "></i> <span style="color: rgb(0, 71, 178);">Pre-Class</span></h2>
+            <p>In this session, we will explore how various strategic approaches are shaped by different cultural contexts. We will discuss key cross-cultural differences and similarities, providing a foundation for understanding how culture impacts economic development strategies. Additionally, we will review cultural distinctions in selected countries and regions, highlighting important guidelines for effectively conducting business in each context. What to do before class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks before class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Read the assigned materials</strong> on cross-cultural management and strategic approaches in international business.</li>
+                <li><strong>Reflect on your own cultural background</strong> and consider how it influences your perspectives on economic development and business practices.</li>
+                <li><strong>Prepare one discussion question</strong> related to the role of culture in international economic development.</li>
+            </ol>
+            <p>Material</p>
+        </div>
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h3></h3>
+            <h2><i class="fa fa-folder-open fa-2x text-primary"></i> <span style="color: rgb(0, 71, 178);">During-Class</span></h2>
+            <p>In today’s session, we will dive into how cultural differences influence international business strategies and economic development. Through group discussions and case studies, we’ll compare cross-cultural similarities and differences, exploring real-world examples of how businesses succeed or face challenges in diverse cultural contexts. What to do during class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks during class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Participate in group discussions</strong> comparing cross-cultural similarities and differences in business strategies.</li>
+                <li><strong>Engage in case study analysis</strong> focused on a specific region or country, examining the cultural factors influencing business success.</li>
+                <li><strong>Collaborate in group work</strong> to develop strategic guidelines for doing business in diverse cultural environments.</li>
+            </ol>
+            <p>Learning Material</p>
+        </div>
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h3></h3>
+            <h2><i class="fa fa-archive text-primary fa-2xP"></i> <span style="color: rgb(0, 71, 178);">Post-Class</span></h2>
+            <p>As we conclude our exploration of cross-cultural influences on international business strategies, it’s important to consolidate what we’ve learned and reflect on how cultural differences impact global economic development. The post-class activities will help you deepen your understanding and apply the concepts discussed in class to real-world situations. What to do after class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks after class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Complete the assigned reflection paper</strong> on the case study discussed during class, focusing on the cultural factors that influenced business outcomes.</li>
+                <li><strong>Review your notes</strong> from the group discussions and identify three key takeaways on cross-cultural similarities and differences.</li>
+                <li><strong>Prepare for the next class</strong> by reading the assigned chapters on global economic policies and how they interact with cultural practices.</li>
+            </ol>
+            <p><span style="color: rgb(29, 33, 37);">Post-Moterm Material</span></p>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <div class="card-header" id="headingThree">
+        <h2 class="mb-4" style="font-weight: bold;">
+            <a class="btn btn-link btn-block text-left collapsed bg-secondary text-primary border-white" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-weight: bold; padding-top: 20px; padding-bottom: 20px; font-size: 22px;">
+                <strong>Day 3</strong>
+            </a>
+        </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion-543">
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h2><i class="fa fa-book text-primary fa-2x "></i><strong style="color: rgb(0, 71, 178);"> Pre-Class</strong></h2>
+            <p>In this session, we will explore how various strategic approaches are shaped by different cultural contexts. We will discuss key cross-cultural differences and similarities, providing a foundation for understanding how culture impacts economic development strategies. Additionally, we will review cultural distinctions in selected countries and regions, highlighting important guidelines for effectively conducting business in each context. What to do before class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks before class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Read the assigned materials</strong> on cross-cultural management and strategic approaches in international business.</li>
+                <li><strong>Reflect on your own cultural background</strong> and consider how it influences your perspectives on economic development and business practices.</li>
+                <li><strong>Prepare one discussion question</strong> related to the role of culture in international economic development.</li>
+            </ol>
+            <p><span style="color: rgb(29, 33, 37);">Material</span></p>
+        </div>
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h3></h3>
+            <h2><i class="fa fa-folder-open fa-2x text-primary"></i> <span style="color: rgb(0, 71, 178);">During-Class</span></h2>
+            <p>In today’s session, we will dive into how cultural differences influence international business strategies and economic development. Through group discussions and case studies, we’ll compare cross-cultural similarities and differences, exploring real-world examples of how businesses succeed or face challenges in diverse cultural contexts. What to do during class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks during class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Participate in group discussions</strong> comparing cross-cultural similarities and differences in business strategies.</li>
+                <li><strong>Engage in case study analysis</strong> focused on a specific region or country, examining the cultural factors influencing business success.</li>
+                <li><strong>Collaborate in group work</strong> to develop strategic guidelines for doing business in diverse cultural environments.</li>
+            </ol>
+            <p><span style="color: rgb(29, 33, 37);">Learning Material</span></p>
+        </div>
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h3></h3>
+            <h2><i class="fa fa-archive text-primary fa-2xP"></i> <span style="color: rgb(0, 71, 178);">Post-Class</span></h2>
+            <p>As we conclude our exploration of cross-cultural influences on international business strategies, it’s important to consolidate what we’ve learned and reflect on how cultural differences impact global economic development. The post-class activities will help you deepen your understanding and apply the concepts discussed in class to real-world situations. What to do after class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks after class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Complete the assigned reflection paper</strong> on the case study discussed during class, focusing on the cultural factors that influenced business outcomes.</li>
+                <li><strong>Review your notes</strong> from the group discussions and identify three key takeaways on cross-cultural similarities and differences.</li>
+                <li><strong>Prepare for the next class</strong> by reading the assigned chapters on global economic policies and how they interact with cultural practices.</li>
+            </ol>
+            <p><span style="color: rgb(29, 33, 37);">Post-Moterm Material</span></p>
+        </div>
+    </div>
+</div>
+
+<!-- New Item #4 -->
+<div class="card">
+    <div class="card-header" id="headingFour">
+        <h2 class="mb-4" style="font-weight: bold;">
+            <a class="btn btn-link btn-block text-left collapsed bg-secondary text-primary border-white" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="font-weight: bold; padding-top: 20px; padding-bottom: 20px; font-size: 22px;">
+                <strong>Day 4</strong>
+            </a>
+        </h2>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion-543">
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h2><i class="fa fa-book text-primary fa-2x "></i><strong style="color: rgb(0, 71, 178);"> Pre-Class</strong></h2>
+            <p>In this session, we will explore how various strategic approaches are shaped by different cultural contexts. We will discuss key cross-cultural differences and similarities, providing a foundation for understanding how culture impacts economic development strategies. Additionally, we will review cultural distinctions in selected countries and regions, highlighting important guidelines for effectively conducting business in each context. What to do before class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks before class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Read the assigned materials</strong> on cross-cultural management and strategic approaches in international business.</li>
+                <li><strong>Reflect on your own cultural background</strong> and consider how it influences your perspectives on economic development and business practices.</li>
+                <li><strong>Prepare one discussion question</strong> related to the role of culture in international economic development.</li>
+            </ol><br>
+            <p><span style="color: rgb(29, 33, 37);">Material</span></p>
+        </div>
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h3></h3>
+            <h2><i class="fa fa-folder-open fa-2x text-primary"></i> <span style="color: rgb(0, 71, 178);">During-Class</span></h2>
+            <h3><br></h3>
+            <p>In today’s session, we will dive into how cultural differences influence international business strategies and economic development. Through group discussions and case studies, we’ll compare cross-cultural similarities and differences, exploring real-world examples of how businesses succeed or face challenges in diverse cultural contexts. What to do during class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks during class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Participate in group discussions</strong> comparing cross-cultural similarities and differences in business strategies.</li>
+                <li><strong>Engage in case study analysis</strong> focused on a specific region or country, examining the cultural factors influencing business success.</li>
+                <li><strong>Collaborate in group work</strong> to develop strategic guidelines for doing business in diverse cultural environments.</li>
+            </ol><br>
+            <p><span style="color: rgb(29, 33, 37);">Learning Material</span></p>
+        </div>
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h3></h3>
+            <h2><i class="fa fa-archive text-primary fa-2xP"></i> <span style="color: rgb(0, 71, 178);">Post-Class</span></h2>
+            <p>As we conclude our exploration of cross-cultural influences on international business strategies, it’s important to consolidate what we’ve learned and reflect on how cultural differences impact global economic development. The post-class activities will help you deepen your understanding and apply the concepts discussed in class to real-world situations. What to do after class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks after class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Complete the assigned reflection paper</strong> on the case study discussed during class, focusing on the cultural factors that influenced business outcomes.</li>
+                <li><strong>Review your notes</strong> from the group discussions and identify three key takeaways on cross-cultural similarities and differences.</li>
+                <li><strong>Prepare for the next class</strong> by reading the assigned chapters on global economic policies and how they interact with cultural practices.</li>
+            </ol><br>
+            <p><span style="color: rgb(29, 33, 37);">Post-Moterm Material</span></p>
+        </div>
+    </div>
+</div>
+
+<!-- New Item #5 -->
+<div class="card">
+    <div class="card-header" id="headingFive">
+        <h2 class="mb-4" style="font-weight: bold;">
+            <a class="btn btn-link btn-block text-left collapsed bg-secondary text-primary border-white" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="font-weight: bold; padding-top: 20px; padding-bottom: 20px; font-size: 22px;">
+                <strong>Day 5</strong>
+            </a>
+        </h2>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion-543">
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h2><i class="fa fa-book text-primary fa-2x "></i><strong style="color: rgb(0, 71, 178);"> Pre-Class</strong></h2>
+            <p>In this session, we will explore how various strategic approaches are shaped by different cultural contexts. We will discuss key cross-cultural differences and similarities, providing a foundation for understanding how culture impacts economic development strategies. Additionally, we will review cultural distinctions in selected countries and regions, highlighting important guidelines for effectively conducting business in each context. What to do before class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks before class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Read the assigned materials</strong> on cross-cultural management and strategic approaches in international business.</li>
+                <li><strong>Reflect on your own cultural background</strong> and consider how it influences your perspectives on economic development and business practices.</li>
+                <li><strong>Prepare one discussion question</strong> related to the role of culture in international economic development.</li>
+            </ol><br>
+            <p><span style="color: rgb(29, 33, 37);">Material</span></p>
+        </div>
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h3></h3>
+            <h2><i class="fa fa-folder-open fa-2x text-primary"></i> <span style="color: rgb(0, 71, 178);">During-Class</span></h2>
+            <p>In today’s session, we will dive into how cultural differences influence international business strategies and economic development. Through group discussions and case studies, we’ll compare cross-cultural similarities and differences, exploring real-world examples of how businesses succeed or face challenges in diverse cultural contexts. What to do during class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks during class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Participate in group discussions</strong> comparing cross-cultural similarities and differences in business strategies.</li>
+                <li><strong>Engage in case study analysis</strong> focused on a specific region or country, examining the cultural factors influencing business success.</li>
+                <li><strong>Collaborate in group work</strong> to develop strategic guidelines for doing business in diverse cultural environments.</li>
+            </ol><br>
+            <p><span style="color: rgb(29, 33, 37);">Learning Material</span></p>
+        </div>
+        <section class="bg-white" style="background-size: cover; border-width: 0px;">
+            <h3></h3>
+            <h2><i class="fa fa-archive text-primary fa-2xP"></i> <span style="color: rgb(0, 71, 178);">Post-Class</span></h2>
+            <p>As we conclude our exploration of cross-cultural influences on international business strategies, it’s important to consolidate what we’ve learned and reflect on how cultural differences impact global economic development. The post-class activities will help you deepen your understanding and apply the concepts discussed in class to real-world situations. What to do after class:</p>
+        </section>
+        <section class="rounded-pill bg-primary" style="border-width: 2px; border-style: solid; padding: 10px 20px;">
+            <p style="margin: 0;">
+                <strong style="color: rgb(255, 255, 255);">What are my tasks after class?</strong>
+            </p>
+        </section>
+        <div class="card-body">
+            <ol>
+                <li><strong>Complete the assigned reflection paper</strong> on the case study discussed during class, focusing on the cultural factors that influenced business outcomes.</li>
+                <li><strong>Review your notes</strong> from the group discussions and identify three key takeaways on cross-cultural similarities and differences.</li>
+                <li><strong>Prepare for the next class</strong> by reading the assigned chapters on global economic policies and how they interact with cultural practices.</li>
+            </ol><br>
+            <p><span style="color: rgb(29, 33, 37);">Post-Moterm Material</span></p>
+        </div>
+    </div>
+</div>
